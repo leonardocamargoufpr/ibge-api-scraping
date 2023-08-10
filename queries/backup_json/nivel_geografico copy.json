@@ -1,0 +1,140 @@
+{
+    "N2": {
+        "label": "Grande região (N, NE, SE, S, CO)",
+        "localidades": {
+            "1":{
+                "sigla":"N",
+                "label": "Norte"
+            },
+            "2":{
+                "sigla":"NE",
+                "label": "Nordeste"
+            },
+            "3":{
+                "sigla":"SE",
+                "label": "Sudeste"
+            },
+            "4":{
+                "sigla":"S",
+                "label": "Sul"
+            },
+            "5":{
+                "sigla":"CO",
+                "label": "Centro-Oeste"
+            }
+        }
+    },
+    "N3": {
+        "label": "Unidade da Federação (estados)",
+        "Localidades":{
+            "11": {
+                "sigla": "RO",
+                "label": "Rondônia"
+            },
+            "12": {
+                "sigla": "AC",
+                "label": "Acre"
+            },
+            "13": {
+                "sigla": "AM",
+                "label": "Amazonas"
+            },
+            "14": {
+                "sigla": "RR",
+                "label": "Roraima"
+            },
+            "15": {
+                "sigla": "PA",
+                "label": "Pará"
+            },
+            "16": {
+                "sigla": "AP",
+                "label": "Amapá"
+            },
+            "17": {
+                "sigla": "TO",
+                "label": "Tocantins"
+            },
+            "21": {
+                "sigla": "MA",
+                "label": "Maranhão"
+            },
+            "22": {
+                "sigla": "PI",
+                "label": "Piauí"
+            },
+            "23": {
+                "sigla": "CE",
+                "label": "Ceará"
+            },
+            "24": {
+                "sigla": "RN",
+                "label": "Rio Grande do Norte"
+            },
+            "25": {
+                "sigla": "PB",
+                "label": "Paraíba"
+            },
+            "26": {
+                "sigla": "PE",
+                "label": "Pernambuco"
+            },
+            "27": {
+                "sigla": "AL",
+                "label": "Alagoas"
+            },
+            "28": {
+                "sigla": "SE",
+                "label": "Sergipe"
+            },
+            "29": {
+                "sigla": "BA",
+                "label": "Bahia"
+            },
+            "31": {
+                "sigla": "MG",
+                "label": "Minas Gerais"
+            },
+            "32": {
+                "sigla": "ES",
+                "label": "Espírito Santo"
+            },
+            "33": {
+                "sigla": "RJ",
+                "label": "Rio de Janeiro"
+            },
+            "35": {
+                "sigla": "SP",
+                "label": "São Paulo"
+            },
+            "41": {
+                "sigla": "PR",
+                "label": "Paraná"
+            },
+            "42": {
+                "sigla": "SC",
+                "label": "Santa Catarina"
+            },
+            "43": {
+                "sigla": "RS",
+                "label": "Rio Grande do Sul"
+            },
+            "50": {
+                "sigla": "MS",
+                "label": "Mato Grosso do Sul"
+            },
+            "51": {
+                "sigla": "MT",
+                "label": "Mato Grosso"
+            },
+            "52": {
+                "sigla": "GO",
+                "label": "Goiás"
+            },
+            "53": {
+                "sigla": "DF",
+                "label": "Distrito Federal"
+            }
+        }
+    }
+}
